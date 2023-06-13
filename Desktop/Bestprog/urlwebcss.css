@@ -1,0 +1,23 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 300px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+#result-container {
+  display: none;
+  margin-top: 20px;
+}
